@@ -36,7 +36,8 @@ body {
 .result-label {
     margin-top: 0.5em;
     padding: 10px;
-    font-size: 13px;
+    font-size: 15px;
+    color: #FF0000;
 }
 
 button.choose-file-button {
