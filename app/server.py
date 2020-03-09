@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.dropbox.com/s/zeezgrt41wiesa2/export.pkl?dl=0'
+export_file_url = 'https://www.dropbox.com/s/zeezgrt41wiesa2/export.pkl?raw=1'
 export_file_name = 'export.pkl'
 
 classes = ['american', 'brownbanded', 'german', 'oriental', 'smokybrown']
